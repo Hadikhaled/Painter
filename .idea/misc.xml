@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Painter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.20277777777777778" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/arrow.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/background_selected.xml" value="0.20277777777777778" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/color_select.xml" value="0.20277777777777778" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/colors.xml" value="0.2526041666666667" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/drawrectangle.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20277777777777778" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/paint_view.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/pencil.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/layout-v23/activity_main.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Painter/app/src/main/res/layout/paint_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
